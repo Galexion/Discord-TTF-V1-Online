@@ -4,7 +4,7 @@ description: Please.
 
 # Begin Here
 
-## Getting Super Powers
+## Choose your way:
 
 {% hint style="info" %}
 This is the Homepage for How to make Discord Bots. 

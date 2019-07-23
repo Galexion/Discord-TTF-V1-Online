@@ -1,13 +1,12 @@
 # Intro for Online Hosting
 
-
-
-Alright! Lets Go ahead and explain what you need.
+                                                                                                                                                                                                                                                                                                                                                              Alright! Lets Go ahead and explain what you need.
 
 * A Internet Connected Device
 * A Discord Account
 * A Basic Understanding of Node.js
-* A Repl.it Account
+* A Repl.it Account \(Optional\)
+* Light-bulb account \([https://discord.gg/yVnSk6V](https://discord.gg/yVnSk6V)\) \(Optional\)
 
 Lets Go!
 

@@ -4,7 +4,7 @@ description: We make the Base stuff open source. the rest is for you to find.
 
 # Code!
 
-## Discord Bot Template
+##                                                                                                                                Discord Bot Template
 
 {% code-tabs %}
 {% code-tabs-item title="Script.js" %}

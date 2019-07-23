@@ -11,6 +11,10 @@ Alright! Lets Go ahead and explain what you need.
 If you shut your computer Down, the Bot shuts down. We recommend that you choose Online hosting. it is simple to do, and we found some free things!
 {% endhint %}
 
+{% hint style="info" %}
+A way you can avoid this is by buying a raspberry PI. Keep in mind that you will still need power and internet.                                                                                                                                                                                                                                                                                                                             
+{% endhint %}
+
 {% page-ref page="intro-for-online-hosting.md" %}
 
 Lets Go!
